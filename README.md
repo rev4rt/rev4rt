@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rev4rt
 - 👀 I’m interested in Home
-- 🌱 I’m currently learning ITS
 - 💞️ I’m looking to collaborate on RTPROJEX
 - 📫 How to reach me rev4rt@gmail.com
 
